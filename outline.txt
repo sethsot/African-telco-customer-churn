@@ -2,6 +2,10 @@
 
     Goal: To predict which customers will churn
 
+    Hypothesis
+    Null:
+    Alternate: 
+
 2) Data Understanding
 
 3) Data Preparation
