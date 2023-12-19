@@ -1,0 +1,10 @@
+1) Business Understanding
+
+    Goal: To predict which customers will churn
+
+2) Data Understanding
+
+3) Data Preparation
+
+4) Modeling
+
