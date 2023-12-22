@@ -1,14 +1,21 @@
 1) Business Understanding
-
+    Explanation of features
     Goal: To predict which customers will churn
-
     Hypothesis
-    Null:
-    Alternate: 
+        Null:
+        Alternate: 
 
 2) Data Understanding
+    Import libraries
+    Load Dataset
+    EDA
+        Explore data (info, describe, duplicated, null values)
+        Univariate Analysis
+        Bi-variate Analysis
+        Multi-variate Analysis
 
 3) Data Preparation
+
 
 4) Modeling
 
